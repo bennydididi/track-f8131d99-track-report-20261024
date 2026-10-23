@@ -1,0 +1,15 @@
+start 2026-10-24 01:11:20 CST
+slug auto-repair-quote
+name 汽修报价确认
+kw expand attempt 1 2026-10-24 01:11:20 CST
+kw expand done 2026-10-24 01:22:30 CST
+serp start 2026-10-24 01:22:30 CST
+serp done ec=0 2026-10-24 02:17:06 CST
+report start 2026-10-24 02:17:06 CST
+
+current report investigator start 2026-10-24 02:17:17 CST
+current report investigator finish 2026-10-24 02:29:37 CST
+current report duration 741 seconds
+full pipeline duration 4698 seconds
+report end 2026-10-24 02:29:55 CST 用时 12 分钟
+done auto-repair-quote 2026-10-24 02:29:55 CST
